@@ -10,7 +10,7 @@
 
 Windows x64 · Android / iPhone 浏览器
 
-![CouchDeck 横屏手柄](assets/landscape-gamepad.png)
+![CouchDeck 横竖屏键盘与手柄](assets/controls-overview.png)
 
 ## 下载
 
@@ -21,6 +21,8 @@ GitHub 自动提供的 `Source code (zip)` / `Source code (tar.gz)` 是本仓库
 ## 键盘这件小事，做了 12 种配列
 
 不只是把菜单翻译一下。熟悉的字母位置、当地常用的符号，以及输入法专用键，都值得在手机上有自己的位置。
+
+![英语、日语、繁体中文与西班牙语键盘](assets/keyboard-layouts.png)
 
 | 配列 | 一些容易被忽略的小细节 |
 | --- | --- |
@@ -47,6 +49,8 @@ GitHub 自动提供的 `Source code (zip)` / `Source code (tar.gz)` 是本仓库
 
 ## 双摇杆，也有“按下摇杆”
 
+![CouchDeck 横屏手柄](assets/landscape-gamepad.png)
+
 Windows 端提供虚拟 Xbox 360 手柄，可用于支持这类手柄输入的 PC 游戏。双摇杆、ABXY、十字键、肩键、扳机、Back 和 Start，都能在手机上操作。
 
 **L3/R3 也能按。** 快速双点对应摇杆，第二下按住，再继续推摇杆，就能同时发送摇杆按压与方向——例如游戏里的按住冲刺并移动。
@@ -56,6 +60,8 @@ Windows 端提供虚拟 Xbox 360 手柄，可用于支持这类手柄输入的 P
 ## 横着拿，就用横着拿的键盘
 
 竖屏是键盘搭配下方触控板；横屏则变成围绕电脑画面的左右分体键盘，两个拇指各管一边。
+
+![围绕电脑画面的横屏分体键盘](assets/landscape-keyboard.png)
 
 - **键盘高度与触控板高度分别调整**，按自己的屏幕和手指习惯分配空间，并保存在当前浏览器。
 - **Ctrl、Alt、Win 可以点一下保持按住**，再点字母完成 `Ctrl+C`、`Ctrl+V` 等操作，不必一直用一根手指压住修饰键。
@@ -81,6 +87,8 @@ Windows 端提供虚拟 Xbox 360 手柄，可用于支持这类手柄输入的 P
 另外，手机界面里还藏了一个 2048。找到了可以玩一局。
 
 ## 快速开始
+
+![CouchDeck 电脑界面与 iPhone 扫码连接](assets/pc-connection.png)
 
 新电脑可能显示**「未知发布者」**。如 SmartScreen 阻止运行，请先确认安装器来自本仓库 Releases，再选择**「更多信息」→「仍要运行」**。不要关闭 Windows 安全防护。
 

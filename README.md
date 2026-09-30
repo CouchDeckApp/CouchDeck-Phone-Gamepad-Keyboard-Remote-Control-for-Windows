@@ -10,7 +10,7 @@ L3/R3 stick clicks, the Japanese keyboard's 「変換」 key, AltGr on a German 
 
 Windows x64 · Android / iPhone browsers
 
-![CouchDeck gamepad in landscape](assets/landscape-gamepad.png)
+![CouchDeck keyboards and gamepads in portrait and landscape](assets/controls-overview.png)
 
 ## Download
 
@@ -21,6 +21,8 @@ GitHub's automatically generated `Source code (zip)` / `Source code (tar.gz)` do
 ## A small keyboard, twelve layouts
 
 More than translated menus. Familiar letter positions, regional symbols, and input-method keys deserve their own place on your phone.
+
+![English, Japanese, Traditional Chinese and Spanish keyboards](assets/keyboard-layouts.png)
 
 | Layouts | A few details that are easy to overlook |
 | --- | --- |
@@ -47,6 +49,8 @@ For example, select Chinese characters with Microsoft Pinyin or conversion resul
 
 ## Dual sticks—with stick clicks, too
 
+![CouchDeck gamepad in landscape](assets/landscape-gamepad.png)
+
 CouchDeck provides a virtual Xbox 360 controller on Windows for PC games that support that type of controller. Dual analog sticks, ABXY, the D-pad, shoulder buttons, triggers, Back, and Start are all on your phone.
 
 **L3/R3 work, too.** Double-tap a stick, hold the second touch, and keep moving it to send both a stick click and directional input—for example, to hold sprint while moving in a game.
@@ -56,6 +60,8 @@ The sticks provide continuous directional input, not just four direction buttons
 ## Turn the phone sideways. The keyboard follows suit.
 
 Portrait puts the trackpad below the keyboard. Landscape splits the keyboard around the PC view, with each thumb taking a side.
+
+![Landscape split keyboard around the PC view](assets/landscape-keyboard.png)
 
 - **Adjust keyboard and trackpad heights separately** to suit your screen and fingers. Preferences are saved in the current browser.
 - **Tap Ctrl, Alt, or Win to hold it**, then tap a letter for shortcuts such as `Ctrl+C` and `Ctrl+V`. No need to keep a finger on the modifier key.
@@ -81,6 +87,8 @@ Text in the PC view too small? Pinch to zoom and pan around, or interact directl
 There is also a little 2048 game hidden in the phone interface. If you find it, have a round.
 
 ## Quick start
+
+![CouchDeck PC interface and QR scanning with an iPhone](assets/pc-connection.png)
 
 On a new PC, Windows may show **Unknown publisher**. If SmartScreen blocks the installer, confirm that it came from this repository's Releases, then select **More info → Run anyway**. Do not disable Windows security protection.
 

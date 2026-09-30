@@ -10,7 +10,7 @@ Los botones L3/R3 del mando, la tecla «変換» del teclado japonés, AltGr en 
 
 Windows x64 · Navegadores de Android / iPhone
 
-![Mando de CouchDeck en horizontal](assets/landscape-gamepad.png)
+![Teclados y mandos de CouchDeck en vertical y horizontal](assets/controls-overview.png)
 
 ## Descarga
 
@@ -21,6 +21,8 @@ Los archivos `Source code (zip)` / `Source code (tar.gz)` que GitHub ofrece auto
 ## Un teclado, 12 distribuciones
 
 No basta con traducir los menús. Las letras donde esperas encontrarlas, los símbolos habituales de cada región y las teclas propias de cada método de entrada también merecen su lugar en el teléfono.
+
+![Teclados en inglés, japonés, chino tradicional y español](assets/keyboard-layouts.png)
 
 | Distribución | Detalles que suelen pasarse por alto |
 | --- | --- |
@@ -47,6 +49,8 @@ Por ejemplo, puedes elegir caracteres chinos con Microsoft Pinyin o resultados d
 
 ## Dos palancas que también se pueden pulsar
 
+![Mando de CouchDeck en horizontal](assets/landscape-gamepad.png)
+
 En Windows, CouchDeck proporciona un mando virtual de Xbox 360 para juegos de PC compatibles con este tipo de entrada. Puedes manejar desde el teléfono las dos palancas analógicas, ABXY, la cruceta, los botones superiores, los gatillos, Back y Start.
 
 **También puedes pulsar L3/R3.** Da dos toques rápidos en la palanca correspondiente y mantén el dedo apoyado en el segundo. Sin levantarlo, mueve la palanca para enviar a la vez la pulsación y la dirección; por ejemplo, para mantener el sprint mientras te mueves en un juego.
@@ -56,6 +60,8 @@ Las palancas ofrecen control continuo de la dirección, no solo cuatro botones d
 ## En horizontal, un teclado para usar en horizontal
 
 En vertical, el teclado tiene el panel táctil debajo. En horizontal, se divide en dos mitades a ambos lados de la imagen del PC, una para cada pulgar.
+
+![Teclado dividido en horizontal a ambos lados de la imagen del PC](assets/landscape-keyboard.png)
 
 - **Ajusta por separado la altura del teclado y la del panel táctil** para repartir el espacio según tu pantalla y tu forma de usarlo. Los ajustes se guardan en el navegador actual.
 - **Un toque en Ctrl, Alt o Win deja la tecla pulsada** para que después puedas tocar una letra y hacer `Ctrl+C`, `Ctrl+V` y otras combinaciones, sin mantener un dedo sobre la tecla modificadora.
@@ -81,6 +87,8 @@ Si el texto de la imagen es demasiado pequeño, amplíala con dos dedos y despl�
 Además, hay un 2048 escondido en la interfaz del teléfono. Si lo encuentras, puedes jugar una partida.
 
 ## Primeros pasos
+
+![Interfaz de CouchDeck en el PC y conexión por QR con un iPhone](assets/pc-connection.png)
 
 En un PC nuevo, Windows puede mostrar **Editor desconocido**. Si SmartScreen bloquea el instalador, comprueba que procede de Releases de este repositorio y selecciona **Más información → Ejecutar de todas formas**. No desactives la protección de seguridad de Windows.
 

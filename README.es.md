@@ -82,6 +82,8 @@ Además, hay un 2048 escondido en la interfaz del teléfono. Si lo encuentras, p
 
 ## Primeros pasos
 
+En un PC nuevo, Windows puede mostrar **Editor desconocido**. Si SmartScreen bloquea el instalador, comprueba que procede de Releases de este repositorio y selecciona **Más información → Ejecutar de todas formas**. No desactives la protección de seguridad de Windows.
+
 1. Instala y abre CouchDeck en el PC y sigue las indicaciones de la configuración inicial. Al instalar componentes, puede que Windows solicite permisos de administrador.
 2. Conecta el teléfono y el PC a la misma red local. El PC puede usar un cable de red y el teléfono, la red Wi-Fi del mismo router.
 3. Escanea con el teléfono el código QR que aparece en el PC, abre el enlace en el navegador y pulsa conectar.

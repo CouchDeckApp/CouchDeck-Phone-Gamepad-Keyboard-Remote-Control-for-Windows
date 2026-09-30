@@ -82,6 +82,8 @@ There is also a little 2048 game hidden in the phone interface. If you find it, 
 
 ## Quick start
 
+On a new PC, Windows may show **Unknown publisher**. If SmartScreen blocks the installer, confirm that it came from this repository's Releases, then select **More info → Run anyway**. Do not disable Windows security protection.
+
 1. Install and open CouchDeck on your PC, then follow the first-run setup. Component installation may ask for Windows administrator approval.
 2. Connect your phone and PC to the same local network. Your PC can use Ethernet while your phone connects to the same router over Wi-Fi.
 3. Scan the QR code shown on the PC with your phone, open it in the browser, and connect.

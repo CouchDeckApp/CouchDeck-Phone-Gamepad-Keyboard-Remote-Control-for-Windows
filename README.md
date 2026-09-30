@@ -104,7 +104,7 @@ CouchDeck fetches version notifications and developer news. It does not automati
 
 ## Reporting problems
 
-For a bug report, export a diagnostic report from **Diagnostics** on the PC and email the resulting **ZIP file as an attachment** to [CouchDeck.HelloDev@outlook.com](mailto:CouchDeck.HelloDev@outlook.com). Include the symptoms, when the problem occurred, and steps to reproduce it. For phone-related issues, include the model and browser; screenshots can supplement the report.
+For a bug report, export a diagnostic report from **Diagnostics** on the PC and email the exported **report file (`.txt`) as an attachment** to [CouchDeck.HelloDev@outlook.com](mailto:CouchDeck.HelloDev@outlook.com). Include the symptoms, when the problem occurred, and steps to reproduce it. For phone-related issues, include the model and browser; screenshots can supplement the report.
 
 Reports may contain computer names, file paths, and network information, so posting them in public Issues is not recommended. Feature suggestions, requests for additional interface languages, or new keyboard layouts for specific uses can be submitted in Issues.
 

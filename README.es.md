@@ -104,7 +104,7 @@ CouchDeck obtiene avisos sobre nuevas versiones y novedades del desarrollador. N
 
 ## ¿Algún problema?
 
-Para informar de un fallo, abre «Diagnóstico» en el PC y pulsa «Exportar un informe de diagnóstico». Envía el **archivo ZIP como adjunto** a [CouchDeck.HelloDev@outlook.com](mailto:CouchDeck.HelloDev@outlook.com), junto con una descripción de lo ocurrido, la hora del problema y los pasos para reproducirlo. Si interviene el teléfono, indica el modelo y el navegador. También puedes añadir capturas de pantalla.
+Para informar de un fallo, abre «Diagnóstico» en el PC y pulsa «Exportar un informe de diagnóstico». Envía el **archivo de informe exportado (`.txt`) como adjunto** a [CouchDeck.HelloDev@outlook.com](mailto:CouchDeck.HelloDev@outlook.com), junto con una descripción de lo ocurrido, la hora del problema y los pasos para reproducirlo. Si interviene el teléfono, indica el modelo y el navegador. También puedes añadir capturas de pantalla.
 
 El informe puede contener el nombre del PC, rutas de archivos e información de red, por lo que no se recomienda publicarlo en un Issue público. Las sugerencias de funciones, de otros idiomas para la interfaz o de nuevas distribuciones de teclado para usos específicos son bienvenidas en Issues.
 

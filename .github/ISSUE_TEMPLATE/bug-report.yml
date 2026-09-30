@@ -4,7 +4,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Export a diagnostic report from **Diagnostics** on the PC and email the ZIP to **CouchDeck.HelloDev@outlook.com**. Include this Issue's link if you open one.
+        Export a diagnostic report from **Diagnostics** on the PC and email the report file (.txt) as an attachment to **CouchDeck.HelloDev@outlook.com**. Include this Issue's link if you open one.
 
         Reports may contain computer names, file paths and network information. **Do not upload diagnostic reports publicly here.** Screenshots are optional; remove personal information first.
   - type: textarea

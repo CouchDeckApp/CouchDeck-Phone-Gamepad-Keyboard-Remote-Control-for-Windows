@@ -104,7 +104,7 @@ CouchDeck 会获取版本通知与开发者动态，不会自动下载或安装�
 
 ## 遇到问题？
 
-反馈故障时，请在电脑端「诊断」中点击「导出故障报告」，将生成的 **ZIP 文件作为附件**发送到 [CouchDeck.HelloDev@outlook.com](mailto:CouchDeck.HelloDev@outlook.com)，附上问题现象、发生时间及复现步骤。涉及手机时，请注明型号和浏览器；截图可作为补充。
+反馈故障时，请在电脑端「诊断」中点击「导出故障报告」，将导出的**报告文件（`.txt`）作为邮件附件**发送到 [CouchDeck.HelloDev@outlook.com](mailto:CouchDeck.HelloDev@outlook.com)，附上问题现象、发生时间及复现步骤。涉及手机时，请注明型号和浏览器；截图可作为补充。
 
 报告可能包含电脑名、文件路径和网络信息，不建议发在公开 Issue 中。功能建议或者其它的界面语言/特定用途的新增键盘布局可以在 Issues 中提出。
 

@@ -1,0 +1,34 @@
+name: Bug report
+description: Report a problem with CouchDeck.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Export a diagnostic report from **Diagnostics** on the PC and email the ZIP to **CouchDeck.HelloDev@outlook.com**. Include this Issue's link if you open one.
+
+        Reports may contain computer names, file paths and network information. **Do not upload diagnostic reports publicly here.** Screenshots are optional; remove personal information first.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include what you expected and any visible error.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps and time
+      description: How did it happen, and approximately when? Leave unknown details blank.
+  - type: input
+    id: environment
+    attributes:
+      label: Version and devices
+      description: CouchDeck version, Windows version, phone model and browser, if known.
+  - type: dropdown
+    id: diagnostic-report
+    attributes:
+      label: Diagnostic report
+      options:
+        - Not sent yet
+        - Sent by email
+        - Unable to export

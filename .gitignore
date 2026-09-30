@@ -1,0 +1,32 @@
+# Installers and release attachments belong in Releases, not Git history.
+*.exe
+*.msi
+*.msix
+*.msixbundle
+*.zip
+*.7z
+*.rar
+*.sha256
+
+# Logs, local settings, credentials and private preparation material.
+*.log
+*.dmp
+*.etl
+*.pem
+*.key
+*.pfx
+*.p12
+.env
+.env.*
+credentials*
+token*
+reports/
+drafts/
+tools/
+readme-sync.json
+AGENTS.md
+node_modules/
+dist/
+tmp/
+.DS_Store
+Thumbs.db

@@ -10,9 +10,11 @@ Los botones L3/R3 del mando, la tecla «変換» del teclado japonés, AltGr en 
 
 Windows x64 · Navegadores de Android / iPhone
 
+![Mando de CouchDeck en horizontal](assets/landscape-gamepad.png)
+
 ## Descarga
 
-[Descarga para Windows x64](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip). Extrae el ZIP y ejecuta el único instalador `Setup.exe` que contiene en el PC que quieras controlar.
+[Descarga para Windows x64](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip). Extrae el ZIP y ejecuta el único instalador de Windows (`.exe`) que contiene en el PC que quieras controlar.
 
 Los archivos `Source code (zip)` / `Source code (tar.gz)` que GitHub ofrece automáticamente son copias de la documentación de este repositorio. No son instaladores ni contienen el código fuente propietario de CouchDeck.
 
@@ -41,6 +43,8 @@ Al activar «Mostrar los candidatos del PC en el teléfono», las opciones que o
 
 Por ejemplo, puedes elegir caracteres chinos con Microsoft Pinyin o resultados de conversión con el IME japonés de Microsoft, sin buscar la pequeña ventana de candidatos en la imagen reducida del escritorio ni llevar el ratón hasta ella. Cuando no hay candidatos, la barra se oculta y deja espacio para las teclas de letras. Esta función requiere que el método de entrada del PC sea compatible.
 
+![Teclado japonés y candidatos del método de entrada del PC](assets/japanese-keyboard.png)
+
 ## Dos palancas que también se pueden pulsar
 
 En Windows, CouchDeck proporciona un mando virtual de Xbox 360 para juegos de PC compatibles con este tipo de entrada. Puedes manejar desde el teléfono las dos palancas analógicas, ABXY, la cruceta, los botones superiores, los gatillos, Back y Start.
@@ -60,6 +64,8 @@ En vertical, el teclado tiene el panel táctil debajo. En horizontal, se divide 
 - **Fn convierte la fila numérica en F1–F10**, sin tener que recurrir al teclado del PC.
 
 ## Los gestos habituales del panel táctil, también aquí
+
+![Teclado y panel táctil en vertical](assets/keyboard-trackpad.png)
 
 Puedes hacer clic, doble clic, clic derecho y arrastrar desde el panel táctil del teléfono. Para mover una ventana o un archivo, da dos toques y, en el segundo, desliza sin levantar el dedo. Con dos dedos puedes desplazarte tanto en vertical como en horizontal.
 

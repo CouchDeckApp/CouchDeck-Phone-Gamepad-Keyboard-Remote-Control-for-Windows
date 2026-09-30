@@ -10,9 +10,11 @@ PC にインストールし、スマホで QR コードを読み取るだけ。�
 
 Windows x64 · Android / iPhone のブラウザー
 
+![CouchDeck の横画面ゲームパッド](assets/landscape-gamepad.png)
+
 ## ダウンロード
 
-[Windows x64 用インストーラーをダウンロード](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip)。ZIP を展開し、操作する PC で中にある 1 つの `Setup.exe` インストーラーを実行してください。
+[Windows x64 用インストーラーをダウンロード](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip)。ZIP を展開し、操作する PC で中にある 1 つの Windows 用インストーラー（`.exe`）を実行してください。
 
 GitHub が自動生成する `Source code (zip)` / `Source code (tar.gz)` は、このリポジトリのドキュメントのスナップショットです。インストーラーではなく、CouchDeck 独自のソースコードも含まれていません。
 
@@ -41,6 +43,8 @@ Shift、Caps Lock、AltGr を押すと、キー上の表示も対応する文字
 
 たとえば Microsoft Pinyin で漢字を選んだり、Microsoft 日本語 IME で変換結果を選んだりできます。縮小されたデスクトップを見ながら、マウスを少しずつ候補欄に合わせる必要はありません。候補がないときは候補バーが隠れるので、文字キーのスペースを圧迫しません。この機能には PC の IME 側の対応が必要です。
 
+![日本語キーボードと PC の変換候補](assets/japanese-keyboard.png)
+
 ## デュアルスティックは、押し込みにも対応
 
 Windows 側に仮想 Xbox 360 コントローラーを用意し、この形式のコントローラー入力に対応する PC ゲームで使えます。デュアルスティック、ABXY、方向パッド、ショルダーボタン、トリガー、Back、Start をスマホから操作できます。
@@ -60,6 +64,8 @@ Windows 側に仮想 Xbox 360 コントローラーを用意し、この形式�
 - **Fn で数字行を F1–F10 に切り替え可能**。PC のキーボードを探す必要はありません。
 
 ## 使い慣れたタッチパッドのジェスチャーも
+
+![縦画面のキーボードとタッチパッド](assets/keyboard-trackpad.png)
 
 タップ、ダブルクリック、右クリック、ドラッグをスマホのタッチパッドで操作できます。2 回タップして 2 回目は指を離さずに滑らせると、ウィンドウやファイルをドラッグできます。2 本指では上下だけでなく、左右にもスクロールできます。
 

@@ -10,9 +10,11 @@ L3/R3 stick clicks, the Japanese keyboard's 「変換」 key, AltGr on a German 
 
 Windows x64 · Android / iPhone browsers
 
+![CouchDeck gamepad in landscape](assets/landscape-gamepad.png)
+
 ## Download
 
-[Download for Windows x64](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip). Extract the ZIP, then run the single `Setup.exe` installer inside it on the PC you want to control.
+[Download for Windows x64](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip). Extract the ZIP, then run the single Windows installer (`.exe`) inside it on the PC you want to control.
 
 GitHub's automatically generated `Source code (zip)` / `Source code (tar.gz)` downloads are snapshots of this repository's documents—not installers, and not CouchDeck's proprietary source code.
 
@@ -41,6 +43,8 @@ Enable the option to show PC input-method candidates on your phone, and candidat
 
 For example, select Chinese characters with Microsoft Pinyin or conversion results with Microsoft Japanese IME—without squinting at a shrunken desktop and steering the pointer into the candidate window. When there are no candidates, the strip gets out of the way without crowding the letter keys. This feature requires a supported PC input method.
 
+![Japanese keyboard and PC input-method candidates](assets/japanese-keyboard.png)
+
 ## Dual sticks—with stick clicks, too
 
 CouchDeck provides a virtual Xbox 360 controller on Windows for PC games that support that type of controller. Dual analog sticks, ABXY, the D-pad, shoulder buttons, triggers, Back, and Start are all on your phone.
@@ -60,6 +64,8 @@ Portrait puts the trackpad below the keyboard. Landscape splits the keyboard aro
 - **Fn turns the number row into F1–F10**, so you do not have to reach for the PC keyboard.
 
 ## Familiar trackpad gestures, included
+
+![Portrait keyboard and trackpad](assets/keyboard-trackpad.png)
 
 Tap, double-click, right-click, and drag from the phone's trackpad. Double-tap and slide without lifting on the second touch to drag a window or file. Two-finger scrolling works both vertically and horizontally.
 

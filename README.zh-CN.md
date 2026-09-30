@@ -10,9 +10,11 @@
 
 Windows x64 · Android / iPhone 浏览器
 
+![CouchDeck 横屏手柄](assets/landscape-gamepad.png)
+
 ## 下载
 
-[下载 Windows x64 安装包](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip)。解压 ZIP，在需要控制的电脑上运行里面唯一的 `Setup.exe` 安装程序。
+[下载 Windows x64 安装包](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip)。解压 ZIP，在需要控制的电脑上运行里面唯一的 Windows 安装程序（`.exe`）。
 
 GitHub 自动提供的 `Source code (zip)` / `Source code (tar.gz)` 是本仓库的文档快照，不是安装包，也不包含 CouchDeck 的专有源码。
 
@@ -41,6 +43,8 @@ GitHub 自动提供的 `Source code (zip)` / `Source code (tar.gz)` 是本仓库
 
 比如用微软拼音选汉字、用微软日语输入法选转换结果，不用再盯着缩小的桌面，把鼠标一点点挪进候选框。没有候选时，这条选词栏会收起来，不挤占字母按键的位置。候选功能需电脑输入法支持。
 
+![日语键盘与电脑输入法候选词](assets/japanese-keyboard.png)
+
 ## 双摇杆，也有“按下摇杆”
 
 Windows 端提供虚拟 Xbox 360 手柄，可用于支持这类手柄输入的 PC 游戏。双摇杆、ABXY、十字键、肩键、扳机、Back 和 Start，都能在手机上操作。
@@ -60,6 +64,8 @@ Windows 端提供虚拟 Xbox 360 手柄，可用于支持这类手柄输入的 P
 - **Fn 可以把数字行切成 F1–F10**，不必临时去找电脑键盘。
 
 ## 熟悉的触控板手势，也带来了
+
+![竖屏键盘与触控板](assets/keyboard-trackpad.png)
 
 轻点、双击、右键、拖拽，都可以在手机触控板上完成。双点后第二下不抬手，继续滑动就能拖动窗口或文件；双指既能上下滚动，也能左右滚动。
 

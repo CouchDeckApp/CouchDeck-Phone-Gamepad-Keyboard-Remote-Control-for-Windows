@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: Send a diagnostic report privately
-    url: mailto:CouchDeck.HelloDev@outlook.com
-    about: Export a report from Diagnostics on the PC and send the ZIP as an email attachment. Do not post reports publicly.
+    url: https://github.com/CouchDeckApp/CouchDeck#reporting-problems
+    about: Email the exported ZIP to CouchDeck.HelloDev@outlook.com. Do not post diagnostic reports publicly.

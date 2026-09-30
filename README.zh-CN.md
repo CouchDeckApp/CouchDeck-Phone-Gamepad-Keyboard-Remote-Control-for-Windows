@@ -16,6 +16,12 @@ Windows x64 · Android / iPhone 浏览器
 
 [下载 Windows x64 安装包](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip)。解压 ZIP，在需要控制的电脑上运行里面唯一的 Windows 安装程序（`.exe`）。
 
+明文下载地址（上面的链接无法点击时可复制）：
+
+```text
+https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip
+```
+
 GitHub 自动提供的 `Source code (zip)` / `Source code (tar.gz)` 是本仓库的文档快照，不是安装包，也不包含 CouchDeck 的专有源码。
 
 ## 键盘这件小事，做了 12 种配列

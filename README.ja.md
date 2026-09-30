@@ -1,4 +1,4 @@
-# CouchDeck
+# CouchDeck — スマホで使える Windows 用ゲームパッド・キーボード・リモート操作
 
 [English](README.md) · [简体中文](README.zh-CN.md) · **日本語** · [Español](README.es.md)
 
@@ -14,12 +14,12 @@ Windows x64 · Android / iPhone のブラウザー
 
 ## ダウンロード
 
-[Windows x64 用インストーラーをダウンロード](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip)。ZIP を展開し、操作する PC で中にある 1 つの Windows 用インストーラー（`.exe`）を実行してください。
+[Windows x64 用インストーラーをダウンロード](https://github.com/CouchDeckApp/CouchDeck-Phone-Gamepad-Keyboard-Remote-Control-for-Windows/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip)。ZIP を展開し、操作する PC で中にある 1 つの Windows 用インストーラー（`.exe`）を実行してください。
 
 ダウンロード URL（上のリンクを開けない場合はコピーしてください）：
 
 ```text
-https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip
+https://github.com/CouchDeckApp/CouchDeck-Phone-Gamepad-Keyboard-Remote-Control-for-Windows/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip
 ```
 
 GitHub が自動生成する `Source code (zip)` / `Source code (tar.gz)` は、このリポジトリのドキュメントのスナップショットです。インストーラーではなく、CouchDeck 独自のソースコードも含まれていません。

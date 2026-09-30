@@ -1,4 +1,4 @@
-# CouchDeck
+# CouchDeck — Phone Gamepad, Keyboard & Remote Control for Windows
 
 **English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [Español](README.es.md)
 
@@ -14,12 +14,12 @@ Windows x64 · Android / iPhone browsers
 
 ## Download
 
-[Download for Windows x64](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip). Extract the ZIP, then run the single Windows installer (`.exe`) inside it on the PC you want to control.
+[Download for Windows x64](https://github.com/CouchDeckApp/CouchDeck-Phone-Gamepad-Keyboard-Remote-Control-for-Windows/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip). Extract the ZIP, then run the single Windows installer (`.exe`) inside it on the PC you want to control.
 
 Download URL (copy if the link above is unavailable):
 
 ```text
-https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip
+https://github.com/CouchDeckApp/CouchDeck-Phone-Gamepad-Keyboard-Remote-Control-for-Windows/releases/download/v1.1.0/CouchDeck-1.1.0-Lite.zip
 ```
 
 GitHub's automatically generated `Source code (zip)` / `Source code (tar.gz)` downloads are snapshots of this repository's documents—not installers, and not CouchDeck's proprietary source code.

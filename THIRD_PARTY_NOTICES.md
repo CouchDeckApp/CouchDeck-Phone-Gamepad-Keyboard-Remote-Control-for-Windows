@@ -16,7 +16,7 @@ The official 1.1.0 installation package includes:
 
 ## Corresponding source for version 1.1.0
 
-[Download the matching GPL component source archive](https://github.com/CouchDeckApp/CouchDeck/releases/download/v1.1.0/CouchDeck-GPL-Components-4cd799c95183cfa9.7z).
+[Download the matching GPL component source archive](https://github.com/CouchDeckApp/CouchDeck-Phone-Gamepad-Keyboard-Remote-Control-for-Windows/releases/download/v1.1.0/CouchDeck-GPL-Components-4cd799c95183cfa9.7z).
 
 SHA-256: `7df7cc2fa103a7adc9a572599042ed5d005ef6c80182f3c88257e8d0d7353759`
 
